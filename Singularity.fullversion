@@ -1,0 +1,2 @@
+Bootstrap:docker  
+From: eric716/tensorflow-gpu-cuda9.0:fullversion
